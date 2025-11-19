@@ -15,6 +15,14 @@ The primary objective of this project is to perform an in-depth exploratory data
 
 ---
 
+### 📊 Dashboard Preview
+
+<p align="center">
+  <img src="Dashboard.png" width="50%">
+</p>
+
+---
+
 ### 🔄 Workflow Process
 
 The analysis follows a structured process as detailed in the Jupyter Notebook
@@ -91,6 +99,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/meshvaapa
 ## 📌 Tags
 
 `#CafeSales` `#EDA` `#DataAnalytics` `#Python` `#PowerBI` `#PortfolioProject` `#DashboardDesign` `#BusinessInsights`
+
 
 
 
