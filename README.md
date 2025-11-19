@@ -17,9 +17,7 @@ The primary objective of this project is to perform an in-depth exploratory data
 
 ### 📊 Dashboard Preview
 
-<p align="center">
-  <img src="Dashboard.png" width="50%">
-</p>
+<img src="Dashboard.png" width="50%">
 
 ---
 
@@ -99,6 +97,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/meshvaapa
 ## 📌 Tags
 
 `#CafeSales` `#EDA` `#DataAnalytics` `#Python` `#PowerBI` `#PortfolioProject` `#DashboardDesign` `#BusinessInsights`
+
 
 
 
