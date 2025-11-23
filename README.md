@@ -80,7 +80,7 @@ An interactive dashboard was created using **Power BI** to visualize key insight
 ### 📄 Summary Report
 
 For a detailed explanation of the project, insights, and business recommendations, please read the full summary report.  
-👉 **[Click here to read the full Summary Report](https://github.com/meshvaapatel/cafe-sales-analysis-and-forecasting/blob/main/sales_summary_report.md)**
+👉 **[Click here to read the full Summary Report](https://github.com/meshvaapatel/cafe-sales-analysis-and-forecasting/blob/main/report/sales_summary_report.md)**
 
 ---
 
@@ -97,6 +97,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/meshvaapa
 ## 📌 Tags
 
 `#CafeSales` `#EDA` `#DataAnalytics` `#Python` `#PowerBI` `#PortfolioProject` `#DashboardDesign` `#BusinessInsights`
+
 
 
 
